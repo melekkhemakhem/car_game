@@ -1,0 +1,29 @@
+﻿  game.cpp
+C:\Users\PC-Gamer\Desktop\tp c++\game\game\game.cpp(18,17): warning C4244: 'initialisation' : conversion de 'T' en 'float', perte possible de données
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\PC-Gamer\Desktop\tp c++\game\game\game.cpp(22,20): warning C4244: 'initialisation' : conversion de 'T' en 'float', perte possible de données
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\PC-Gamer\Desktop\tp c++\game\game\game.cpp(23,20): warning C4244: 'initialisation' : conversion de 'T' en 'float', perte possible de données
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\PC-Gamer\Desktop\tp c++\game\game\game.cpp(69,37): warning C4244: '=' : conversion de 'T' en 'float', perte possible de données
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\PC-Gamer\Desktop\tp c++\game\game\game.cpp(125,55): warning C4244: 'argument' : conversion de 'int' en 'T', perte possible de données
+          with
+          [
+              T=float
+          ]
+C:\Users\PC-Gamer\Desktop\tp c++\game\game\game.cpp(140,39): warning C4305: 'argument' : troncation de 'double' à 'float'
+C:\Users\PC-Gamer\Desktop\tp c++\game\game\game.cpp(155,25): warning C4244: 'initialisation' : conversion de 'float' en 'int', perte possible de données
+  game.vcxproj -> C:\Users\PC-Gamer\Desktop\tp c++\game\x64\Debug\game.exe
